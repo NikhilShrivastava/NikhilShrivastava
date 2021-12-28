@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nikhil</h1>
 <h3 align="center">A passionate Software Developer and an Open-Source Enthusiast 👦</h3>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=NikhilShrivastava&left_color=gray&right_color=blue
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=NikhilShrivastava&left_color=gray&right_color=blue)
 [![GitHub NikhilShrivastava](https://img.shields.io/github/followers/NikhilShrivastava?label=follow&style=social)](https://github.com/NikhilShrivastava)
 [![Linkedin: Nikhil Shrivastava](https://img.shields.io/badge/-Nikhil%20Shrivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhilshrivastava175/)](https://www.linkedin.com/in/nikhilshrivastava175/)
 [![Twitter: Nikhil Shrivastava](https://img.shields.io/twitter/follow/_nickyniks_?style=social)](https://twitter.com/_nickyniks_)
