@@ -22,8 +22,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to travel🌍 and play guitar 🎸
 
-### Connect with me here 
-https://www.itvoice.in/wp-content/uploads/2021/08/HackerEarth-logo.png
+### Connect with me here
 
 <a href="https://www.linkedin.com/in/nikhilshrivastava175/">
 <img align="left" alt="Nikhil Shrivastava | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
