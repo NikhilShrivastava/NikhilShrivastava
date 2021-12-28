@@ -1,6 +1,8 @@
 <h1 align="center">Hi Everyone!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Nikhil</h1>
 <h3 align="center">A passionate Software Developer and an Open-Source Enthusiast 👦</h3>
 
+<br>
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=NikhilShrivastava&left_color=gray&right_color=blue)
 [![GitHub NikhilShrivastava](https://img.shields.io/github/followers/NikhilShrivastava?label=follow&style=social)](https://github.com/NikhilShrivastava)
 [![Linkedin: Nikhil Shrivastava](https://img.shields.io/badge/-Nikhil%20Shrivastava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhilshrivastava175/)](https://www.linkedin.com/in/nikhilshrivastava175/)
@@ -12,7 +14,7 @@
 - 🌱 I’m currently learning ElasticSearch
 - 👯 I’m looking to collaborate on projects of SpringMVC
 - 🤔 I’m looking for help with AngularJS
-- 💬 Ask me about anything, I'm happy to help :)
+- 💬 Ask me about anything, Happy to help :)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to travel🌍 and play guitar 🎸
 
@@ -37,11 +39,11 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilShrivastava&show_icons=true&theme=tokyonight" alt="My github stats" height="150"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=NikhilShrivastava&show_icons=true&theme=tokyonight" alt="My github stats" height="180"/></p>
 
 <p align="center">
-<img align="left" height="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilShrivastava&theme=tokyonight" alt="NikhilShrivastava"/> </p>
+<img align="left" height="180"  src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilShrivastava&theme=tokyonight" alt="NikhilShrivastava"/> </p>
 
 <p align="center">
-<img align="right" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilShrivastava&layout=compact&theme=tokyonight" alt="languages"/> 
+<img align="right" height= "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilShrivastava&layout=compact&theme=tokyonight" alt="languages"/> 
 </p>
