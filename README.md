@@ -25,19 +25,19 @@
 ### Connect with me here
 
 <a href="https://www.linkedin.com/in/nikhilshrivastava175/">
-<img align="left" alt="Nikhil Shrivastava | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+<img align="left" alt="Nikhil Shrivastava | Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 
 <a href="https://twitter.com/_nickyniks_?lang=en">
-<img align="left" alt="Nikhil Shrivastava | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+<img align="left" alt="Nikhil Shrivastava | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a> 
 
 <a href="https://www.instagram.com/_nikhilshrivastava_/">
-<img align="left" alt="_nikhilshrivastava_ | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+<img align="left" alt="_nikhilshrivastava_ | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
   
 <a href="https://www.facebook.com/itsmenikhilshrivastava/">
-<img align="left" alt="Nikhil Shrivastava" height="25" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" />
+<img align="left" alt="Nikhil Shrivastava" height="25" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" />
 </a>
 
 <a href="https://www.hackerearth.com/@nikhil_175">
